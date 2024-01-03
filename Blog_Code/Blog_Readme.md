@@ -1,7 +1,7 @@
 # I will guide you on how to run this blog code
 
 1. Prerequisites:
--> IDE: Any code editor (VS Code, Sublime Text, WebStorm) is fine.
+   IDE: Any code editor (VS Code, Sublime Text, WebStorm) is fine.
 -> Terminal: Access to a terminal emulator for running commands.
 -> Node.js: Download and install the latest LTS version. This includes npm.
 -> MongoDB: Install MongoDB Community Edition. You can choose the official installer or a package manager like Docker.
